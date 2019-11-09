@@ -8,6 +8,6 @@ void loop(void)
 	digitalWrite(21, HIGH);
 	delay(100);
 	digitalWrite(21, LOW);
-	delay(1000);
+	delay(100);
 }
 
